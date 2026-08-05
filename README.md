@@ -6,9 +6,9 @@ SINDy discovers governing differential equations directly from data by assuming 
 
 For a system
 
-[
-\dot{x}=f(x),
-]
+
+$$\dot{x}=f(x),$$
+
 
 a library of candidate functions is constructed:
 
